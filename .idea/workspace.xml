@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c67b7cf-a3fc-4062-acc2-ea9be03369f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/seaport.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/seaport.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <updated>1654898938904</updated>
       <workItem from="1654898945423" duration="1742000" />
       <workItem from="1654922208498" duration="5309000" />
-      <workItem from="1654942013250" duration="2750000" />
+      <workItem from="1654942013250" duration="3011000" />
     </task>
     <servers />
   </component>
