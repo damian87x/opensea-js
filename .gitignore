@@ -1,6 +1,6 @@
 _bundles/
 node_modules/
-
+.idea
 # Logs
 logs
 *.log
